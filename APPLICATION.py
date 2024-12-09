@@ -47,7 +47,7 @@ counter = 0
 
 def main():
     global counter
-    st.title("WanderStay, a preminum hotel finder of INDIA")
+    st.title("WanderStay, a premium hotel finder of INDIA")
 
     # Create a sidebar menu with options
     menu = ["Home", "Conversation History", "About"]
